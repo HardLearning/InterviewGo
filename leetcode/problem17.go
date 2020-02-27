@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 /**
 * @author moorewu
 * @E-mail moorewu@tencent.com
@@ -38,6 +36,6 @@ func letterCombinations(digits string) []string {
 	return result
 }
 
-func main() {
-	fmt.Println(letterCombinations("23"))
-}
+//func main() {
+//	fmt.Println(letterCombinations("23"))
+//}
